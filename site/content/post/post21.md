@@ -1,14 +1,13 @@
 ---
-newstitle: This is a special News
-date: 2017-03-22T15:04:10.000Z
-description: >-
-  Brewing with a Chemex probably seems like a complicated, time-consuming
-  ordeal, but once you get used to the process, it becomes a soothing ritual
-  that's worth the effort every time.
-image: /img/news/apollo.png
+title: Post21
+date: 2017-03-23T00:00:00+01:00
+description: jgjgjg
+image: /img/What’s Next.js for Apollo.png
 ---
 
-In 1958, designers at the [Illinois Institute of Technology](https://www.spacefarm.digital) said that the Chemex Coffeemaker is *"one of the best-designed products of modern times"*, and so is included in the collection of the Museum of Modern Art in New York City.
+This we’ll **take** a look at all the steps required to make astonishing coffee with a Chemex at home. The Chemex Coffeemaker is a manual, pour-over style 
+
+**In 1958**, designers at the [Illinois Institute of Technology](https://www.spacefarm.digital) said that the Chemex Coffeemaker is *"one of the best-designed products of modern times"*, and so is included in the collection of the Museum of Modern Art in New York City.
 
 ## The little secrets of Chemex brewing
 
