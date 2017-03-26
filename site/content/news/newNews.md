@@ -1,5 +1,5 @@
 ---
-newstitle: New News No 2b
+newstitle: New News No 2
 date: 2017-03-22T15:04:10.000Z
 description: >-
   Web Site generators render content into HTML files. Most are “dynamic site
