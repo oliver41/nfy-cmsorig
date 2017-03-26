@@ -1,12 +1,14 @@
 ---
-newstitle: New News No 2
+newstitle: New News No 2b
 date: 2017-03-22T15:04:10.000Z
 description: >-
-  Web site generators render content into HTML files. Most are “dynamic site generators.” That means the HTTP server (which is the program running on your website that the user’s browser talks to) runs the generator
+  Web Site generators render content into HTML files. Most are “dynamic site
+  generators.” That means the HTTP server (which is the program running on your
+  website that the user’s browser talks to) runs the generator
 image: /img/news/mediummembers.png
 ---
 
-Creating the page dynamically means that the computer hosting the HTTP server has to have enough memory and CPU to effectively run the generator around the clock. If not, then the user has to wait in a queue for the page to be generated.
+Creating the Page dynamically means that the computer hosting the HTTP server has to have enough memory and CPU to effectively run the generator around the clock. If not, then the user has to wait in a queue for the page to be generated.
 
 Nobody wants users to wait longer than needed, so the dynamic site generators programmed their systems to cache the HTML files. When a file is cached, a copy of it is temporarily stored on the computer. It is much faster for the HTTP server to send that copy the next time the page is requested than it is to generate it from scratch.
 
