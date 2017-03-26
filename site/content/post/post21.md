@@ -4,7 +4,7 @@ date: 2017-03-22T23:00:00.000Z
 description: >-
   You can easily try out Netlify CMS by running it on a pre-configured starter
   site. Our example in the intro is the Kaldi small business Hugo template.
-image: /img/What’s Next.js for Apollo.png
+image: /img/blog/apollo.png
 ---
 
 ## The little secrets of Chemex brewing
