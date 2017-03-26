@@ -1,5 +1,5 @@
 ---
-newstitle: this is a News Test
+newstitle: this is a new News Test
 date: 2017-03-22T15:04:10.000Z
 description: >-
   Brewing with a Chemex probably seems like a complicated, time-consuming
