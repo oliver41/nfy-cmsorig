@@ -6,7 +6,7 @@ export default class NewsPreview extends React.Component {
     const {entry, widgetFor} = this.props;
 
     return <div className="mw6 center ph3 pv4">
-      <h1 className="f2 lh-title b mb3">{ entry.getIn(["data", "title"])}</h1>
+      <h1 className="f2 lh-title b mb3">{ entry.getIn(["data", "newstitle"])}</h1>
       <div className="flex justify-between grey-3">
         <div style={{
           width: "80px",
