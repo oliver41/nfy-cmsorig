@@ -1,7 +1,11 @@
 ---
-title: New Post now
-date: 2017-03-25T00:00:00+01:00
-description: dfdfgdsg
+title: 'GOLF: WORLD GOLF CHAMPIONSHIPS DELL TECHNOLOGIES MATCH PLAY'
+date: 2017-03-24T23:00:00.000Z
+description: >-
+  Beim WGC Dell Technologies Match Play ist vieles anders als sonst auf der
+  Tour. Die Pros zählen nicht ihre Schläge, sondern die Lochgewinne im Duell
+  Mann gegen Mann. Spielberechtigt sind nur die Top-64 der Weltrangliste und
+  eventuelle Nachrücker.
 image: /img/Bildschirmfoto 2017-03-26 um 21.19.33.png
 ---
 
